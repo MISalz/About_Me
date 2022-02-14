@@ -29,3 +29,25 @@ if(q3==='yes'|| q3==='y'){
     alert(user+' Its been so long since I took CIS course in college, but I did have prior experience with programming languages prior to attending CF')
   }
   // console.log (user+' now you know a bit more about me and my journey to Codefellows.')
+
+  let q4 = prompt('do you think I had prior coding or programming experience prior to attending codefellows?').toLowerCase;
+if(q4==='yes'|| q4==='y'){
+  alert(user+' Yes, actually I did. I had taken some courses during college and even self taught myself a little of HTML during the myspace days.');
+  }else if (q4==='no'||q4==='n'){
+    alert(user+' Its been so long since I took CIS course in college, but I did have prior experience with programming languages prior to attending CF')
+  }
+  // console.log (user+' now you know a bit more about me and my journey to Codefellows.')
+  let q5 = prompt('do you think I had prior coding or programming experience prior to attending codefellows?').toLowerCase;
+if(q5==='yes'|| q5==='y'){
+  alert(user+' Yes, actually I did. I had taken some courses during college and even self taught myself a little of HTML during the myspace days.');
+  }else if (q5==='no'||q5==='n'){
+    alert(user+' Its been so long since I took CIS course in college, but I did have prior experience with programming languages prior to attending CF')
+  }
+  // console.log (user+' now you know a bit more about me and my journey to Codefellows.')
+  let q6 = prompt('do you think I had prior coding or programming experience prior to attending codefellows?').toLowerCase;
+if(q6==='yes'|| q6==='y'){
+  alert(user+' Yes, actually I did. I had taken some courses during college and even self taught myself a little of HTML during the myspace days.');
+  }else if (q6==='no'||q6==='n'){
+    alert(user+' Its been so long since I took CIS course in college, but I did have prior experience with programming languages prior to attending CF')
+  }
+  // console.log (user+' now you know a bit more about me and my journey to Codefellows.')
