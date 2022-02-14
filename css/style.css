@@ -1,0 +1,7 @@
+body{
+  background-image: linear-gradient(to right top, #051937, #183d5d, #2f6482, #4c8ea7, #6fbac9);
+  color: white;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{text-align: center;}

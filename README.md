@@ -1,13 +1,36 @@
 
 # LAB - 02
 ## About_Me
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
-## Author: Student/Group Name
+I build a page to introduce myself to the class. It describes my personal experience and journey to Codefellows.
+
+## Author: Michelle Salazar/ 201d83
+
+## Links and Resources
+• submission PR
+• Gradrient color generator: https://mycolor.space/gradient?ori=to+right+top&hex=%23051937&hex2=%236FBAC9&sub=1
+
+## Reflections and Comments
+
+# LAB - 03
+## About_Me
+I build a page to introduce myself to the class.
+
+## Author: Michelle Salazar/ 201d83
 
 ## Links and Resources
 • submission PR
 • Any Links you used as reference
 
 ## Reflections and Comments
-• Consider including the answers to your daily journal and submission questions here
-This is also a good place to reflect on the tools and resources used and learned
+
+# LAB - 03
+## About_Me
+I build a page to introduce myself to the class.
+
+## Author: Michelle Salazar/ 201d83
+
+## Links and Resources
+• submission PR
+• Any Links you used as reference
+
+## Reflections and Comments
